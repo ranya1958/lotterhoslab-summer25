@@ -2,6 +2,8 @@
 title: "Lab Notebook"
 ---
 
+## qPCR Protocol
+
 ::: {.callout-note}
 ## Note: 
 This protocol is similar to the protocol developed by the Hughes lab at Northeastern University, but has been adapted for the Lotterhos lab eastern oyster seascape genomics project. We have adjusted sample volume, assay volumes, and automated data analysis steps.
@@ -12,3 +14,17 @@ This protocol is similar to the protocol developed by the Hughes lab at Northeas
 -   **MasterMix:** When we order the 5 mL volume, we can run 8 plates with this amount. We make 8 aliquots of 625 ul each into 1.5 mL low-bind tubes and immediately store them in the 5C fridge. Each plate requires 618 ul of MM, so there is a small amount of buffer room for pipetting error. Do not contaminate the mastermix! It should only be pipetted away from any positives or DNA samples in a separate sterile workspace. 
 
 -   **Primers and Probes:**
+
+-   **Positives and negatives:** [Make more MSX+ before next run, 1:100 dilution]
+
+-   **Gblocks:** These contain ultra-concentrated parasite DNA, so only open these tubes in a hood, ideally away from where the plates are typically run. 
+
+-   **1X TE:** If we received a bottle of 20X TE to dilute, make a 1X TE concentration in a 50 mL aliquot tube by adding 2 mL of 20X TE into 38 mL of sterile molecular-grade water. This solution is stable long-term, so it can live on the aliquots shelf. Make sure to date and add your initials to the tube. 
+
+##### **Setting up a plate run (25 minutes)**
+
+1. Turn on the UV light in the Gatins lab hood and allow it to run for at least 20 minutes. The UV should have also been run at the completion of the last plate, but if not, allow it to run for the full hour cycle. 
+  a. Double-check that the single channel and multichannel repeater pipettes you will be using are inside of the hood while the UV light treatment is on. 
+2. Close the window shade next to the hood. Dim the lights in the lab by turning on only the lights above the sink or the set in the front of the lab by the door.
+3. Navigate to the qPCR_runs datasheet [qPCR_runs](https://docs.google.com/spreadsheets/d/1BHdIQoa0ABh71H_7mNExRCFcbOGNRwdhPnk2E31Ai6E/edit?usp=sharing) and plan out which samples you are going to put on the plate today. Duplicate our plate setup, add the date, your initials, and then change the sample names accordingly. Do not move the positives, negatives, or standards around on the plate. 
+

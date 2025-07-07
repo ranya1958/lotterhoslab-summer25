@@ -9,6 +9,6 @@ This protocol is similar to the protocol developed by the Hughes lab at Northeas
 
 ##### **When Materials Arrive** {.unnumbered}
 
--   'MasterMix:' When we order the 5 mL volume, we can run 8 plates with this amount. We make 8 aliquots of 625 ul each into 1.5 mL low-bind tubes and immediately store them in the 5C fridge. Each plate requires 618 ul of MM, so there is a small amount of buffer room for pipetting error. Do not contaminate the mastermix! It should only be pipetted away from any positives or DNA samples in a separate sterile workspace. 
+-   **MasterMix:** When we order the 5 mL volume, we can run 8 plates with this amount. We make 8 aliquots of 625 ul each into 1.5 mL low-bind tubes and immediately store them in the 5C fridge. Each plate requires 618 ul of MM, so there is a small amount of buffer room for pipetting error. Do not contaminate the mastermix! It should only be pipetted away from any positives or DNA samples in a separate sterile workspace. 
 
--   'Primers and Probes:'
+-   **Primers and Probes:**

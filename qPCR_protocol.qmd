@@ -25,6 +25,169 @@ This protocol is similar to the protocol developed by the Hughes lab at Northeas
 
 1. Turn on the UV light in the Gatins lab hood and allow it to run for at least 20 minutes. The UV should have also been run at the completion of the last plate, but if not, allow it to run for the full hour cycle. 
   a. Double-check that the single channel and multichannel repeater pipettes you will be using are inside of the hood while the UV light treatment is on. 
-2. Close the window shade next to the hood. Dim the lights in the lab by turning on only the lights above the sink or the set in the front of the lab by the door.
-3. Navigate to the qPCR_runs datasheet [qPCR_runs](https://docs.google.com/spreadsheets/d/1BHdIQoa0ABh71H_7mNExRCFcbOGNRwdhPnk2E31Ai6E/edit?usp=sharing) and plan out which samples you are going to put on the plate today. Duplicate our plate setup, add the date, your initials, and then change the sample names accordingly. Do not move the positives, negatives, or standards around on the plate. 
 
+2. Close the window shade next to the hood. Dim the lights in the lab by turning on only the lights above the sink or the set in the front of the lab by the door.
+
+3. Navigate to the [qPCR_runs datasheet](https://docs.google.com/spreadsheets/d/1BHdIQoa0ABh71H_7mNExRCFcbOGNRwdhPnk2E31Ai6E/edit?usp=sharing) and plan out which samples you are going to put on the plate today. Duplicate our plate setup, add the date, your initials, and then change the sample names accordingly. Do not move the positives, negatives, or standards around on the plate. 
+
+4. Gather the following materials and place them outside of the hood: roll of aluminum foil, counter-balance empty qPCR plate, sterile qPCR plate, sterile qPCR plate tape sheet, empty pipette tip waste container, lab notebook, sharpies.
+
+5. Gather the following materials and place them inside of the hood: sterile molecular-grade water, green plastic block PCR strip tube holder, and 6 strips of USA scientific PCR tubes with the attached cap (located on Gatins lab shelf above the desktop computer)
+
+6. Set the multichannel repeater pipette to an uptake speed of 3, expel speed of 4, and volume of 10 ul with 2x steps. 
+
+7. Set the single channel repeater pipette to an uptake speed of 4, expel speed of 4, and volume of 21 ul with 3x steps. 
+
+8. Grab ice in two buckets, one small enough to fit in the hood, and a larger one on the counter beside the hood.
+
+9. Remove the 625 ul aliquot tube of MM from the 5C Lotterhos lab fridge and place it on ice outside of the hood. 
+
+10. Remove plate(s) of DNA that you are working with from the -20 C Lotterhos lab freezer and place it on ice outside of the hood.
+
+11. Remove the standards, primers/probe assay mixes, positive controls, and put on ice inside of the hood. 
+  a. Only remove one set of the standards from the freezer at a time. They are in 12 ul aliquots, so freeze/thaw the same set until it is finished before moving on. 
+  b. The assay mixes should be in foil, do not unwrap them yet.
+
+##### **Pipetting the plate (45 minutes)**
+
+::: {.callout-important}
+## Remember
+Once you start this process, there is not a good stopping point. Make sure that you are prepared to execute this entire series of pipetting steps before you start. The assays are light-sensitive. 
+:::
+
+1. Make the working mix (WM)  in a sterile low-bind 1.5 mL tube.
+
+2. Vortex WM. Immediately wrap the lower portion of the tube in foil to prevent light exposure.
+
+3. Using the 5-100 ul repeater single-channel pipette, add 21 ul of WM into each tube.
+  a. Ensure steps are set to 3x. Intake speed is 4, dispensing speed is 4.
+  b. Tip: With the electronic pipettes, the first “dispense” click will always “waste” 1uL. After aspirating the WM into the tip, stay in the tube to “waste” that first droplet. Then complete 3 pipettes into strip tube wells. To empty any leftover overage, click the “down” button 3x, this will dispense any leftover WM back into the WM tube. 
+  c. Repeat, if it starts to get bubbly at any point, grab a new tip. 
+
+4. At the completion of each strip of tubes, move the entire strip under a piece of foil to prevent light exposure. 
+  a. Keep the foil covering all tubes and keep all strip tube caps closed unless you are actively pipetting into them from this point on.  
+
+5. Add 2.33 ul molecular grade water (negative control) into A6 
+
+6. Warm the first two standards in your hand, vortex for 5 sec, then briefly spin down. 
+
+7. Pipette 2.33 ul standard one (0.1) into A1 and 2.33 ul standard two (0.01) into B1. 
+  a. Return the standard aliquots to ice as soon as you are finished pipetting them. 
+
+8. Repeat with standards in sets of two. Remember that standard 7 is pipetted twice total, once each into G1 and H1. 
+
+9. Pipette 2.33 ul DNA sample into each well according to the plate plan. Vortex each sample before pipetting by placing your hand on the vortexer and holding the sample out. If pipetting a full column of samples, remove and replace the rubber caps completely. 
+  a.Use a counter-weight of another CviMVP frozen plate (-20 C Lotterhos freezer) to spin down using the centrifuge in the common lab space
+
+10. Pipette 2.33 ul Dermo positive into G6
+
+11. Pipette 2.33 ul MSX positive into H6
+
+12. Vortex each strip tube by placing your hand on the vortexer, then spin down. 
+
+13. Place the clear plastic white-skirted qPCR plate on ice inside the hood. 
+
+14. Using the multichannel repeater pipette, transfer 10 ul into each well of the plate.
+  a. Ensure steps are set to 2x. Intake speed is 3, dispensing speed is 4.
+  ::: {.callout}
+  ## Tip
+  Place the pipette tips at the very bottom of the well. Make sure they are completely even and all pressed against the plastic tubes. After you pipette up, expel the first ‘waste’ pipette back into the strip tubes. All volume should now look even in the pipette tips. Pipette down once into the first column, then down once into the second column. There should be a tiny amount of fluid left in the tips, this is ok. Check for consistency across all wells by holding the plate up. 
+  :::
+
+15. Keep foil covering the columns once you have finished pipetting. 
+16. Cover the entire plate with a clear plastic tape sheet
+17. Vortex gently for 5-10 sec and spin down for 5-10 sec using an empty counterweight
+
+##### **Running the qPCR plate (45-60 minutes)**
+We are using the Hughes lab qPCR machine while we evaluate potential contamination in the common lab space Lotterhos qPCR machine. 
+
+1. Turn on the machine with the power button on the back right-hand side. It takes a few minutes to warm up. 
+
+2. Open the lid by pressing the button in the center of the machine and load the plate, keeping the plastic sheet on the wells. Double-check the plate orientation (A1 in top left hand corner). Close the lid.
+
+3. Select the ‘Oyster’ protocol and make sure that the run date correctly displays the date. 
+  ::: {.callout-important}
+  ## Remember
+Check the “all channels” box when prompted. This is NOT the default setting, and failure to check this box means the samples will not be read. 
+  :::
+
+4. Press run. There is a warmup period, and then the thermocycler will begin to count down the amount of time remaining. It’s a good idea to watch the machine for a minute or two to make sure it advances out of the warmup period. 
+
+5. The run takes about 45-60 minutes to complete. 
+
+##### **Evaluating run quality (25 minutes)**
+
+1. When the run is finished, plug in the Hughes lab USB stick into the right hand side of the machine. It will flash red, wait until it glows solid red. 
+
+2. Press ‘Export’ run. Wait for the USB stick to flash red and return to a solid red glow. 
+
+3. Plug the USB stick into the Hughes lab laptop (no password necessary) and copy the Bio-Rad compressed run file from the USB folder to a new folder (create one using the date of the run and your initials) in ‘Eppley_qPCR_oyster’ Desktop folder. 
+
+4. Right click on the file and select ‘Open’ - this will open it in the BioRad CFX Maestro software program. Then you will be prompted to then save the prcd run file into the same ‘Eppley_qPCR_oyster’ Desktop folder. This is correct, click save. The BioRad CFX Maestro software program should now auto-open with your run file.
+  ::: {.callout}
+  ## Note
+  If you simply open the software first and then choose ‘Browse’, it will NOT work to open the file. I think this is due to the compressed file format. 
+  :::
+
+5. Upload the Plate Setup Plan
+  a. Click the Plate Setup menu in the upper right-hand corner of the Data Analysis Page. Click “Replace Plate File” and apply the Bio-Rad Plate File called plate_layout_file_MGE that is stored in the Eppley_qPCR_oyster folder on the Desktop (and also stored in the Eppley_qPCR folder on the USB stick). 
+  b. In this file, Replicates = 2, Unknown sample #s are 1-37 and standard dilutions are a series of 7 dilutions with the 7th repeated twice. 
+
+6. Eliminate the top standard and one of the bottom standards, whichever pair is least consistent with each other. The plate file has it auto-set to eliminate standard 8, but evaluate if standard 7 or standard 8 is higher quality. 
+
+7. Eliminate one other standard value based on deviation from the regression line or deviation between the points. 
+
+8. If any samples amplified early and not any further, this is likely machine error. Drag the horizontal bar on the log scale transformation above these curves. It may improve the efficiency value slightly. 
+
+9. Evaluate R^2 value and E value
+  a. Generally, we want the R^2 value to be at 0.99 or above. I try to adjust different parameters, like moving the threshold, or eliminating a different standard in order to achieve this. 
+
+10. Double-check that the negatives are negative, and the positives amplified. If the negatives did amplify, check to ensure that the MSX positive did not amplify for Dermo, and vice-versa. If that is true, the plate can still be used. 
+
+11. If all thresholds were passed, eliminate any samples from the plate that look like machine error or are vastly inconsistent (e.g. one rep amplified and the other did not). 
+
+##### **Data Analysis Preparation (10 minutes)**
+
+** Once the following sequence of steps is done you can be done for the day, the data analysis can be completed at another time. While the Hughes lab qPCR machine does retain run data, these steps ensure that a copy of all data we need to analyze is saved in our google drive.**
+
+1. Export the final data file using the ‘Export’ option and choose Excel 2007. Select the ‘Eppley_qPCR’ folder on the computer and press export. It will take a second to load, but a large set of files should now appear. 
+
+2. The only file that is necessary for the downstream R script is located in the ‘Quantification Cq Results’ output file from the machine run. Locate this file and save it on the USB stick. 
+
+3. Double check that all final files are saved to the USB stick and the Hughes Lab laptop in the 'Eppley_qPCR' and 'Eppley_qPCR_oyster folders'. **Don’t delete any of these files - keep them backed up in both places.**
+
+4. Using the Gatins lab laptop (password: 58877), open google drive and create a new folder with the plate number and date of the run.
+
+5. Plug in the USB stick into the Gatins lab laptop and upload the Quantification Cq Results file to the new google folder.
+
+6. Transfer other run metrics, like the '.xlsx' files and the '.pcrd' run file to the Google Drive. Right now, we don’t have a use or plan for these, but we might need them down the line for other types of data analysis or for publication. 
+
+##### **Data Analysis**
+
+Automation:
+
+- Split dermo and msx analysis
+
+- Calculate number of copies per nanogram per microliter, multiply by the starting quantity (regression line). This is the starting quantity column in the output excel sheet 
+
+- Combined standard key, then calculate the standard copy number from the information from IDT who sent the gblocks. It has the ng/mol (fmoles/ng?) 
+
+- Calculate the correct Sq mean 
+
+- Need the extraction weight for each sample, then calculate the weighted Sq value 
+
+- Intensity bins are in the protocol (fairly arbitrary but what the Hughes lab reports to Rhode Island) 
+
+- Metrics: Prevalence, Intensity, Weighted prevalence, total conclusive, total positive 
+  - **Prev** is total # of positives / total # of conclusive results for the site 
+  - **Weighted prev** is taking the sum of the intensities for the site and dividing by the # of conclusive results 
+  - Individual intensities of each sample can then be summed for each site 
+  - Average individual-level intensity 
+
+- The standard should be 1 if the Sq is multiplied correctly (essentially multiplying by the denominator)
+
+- First copy and paste the whole sheet and convert starting quantity to scientific notation
+
+- Drop down column, for every other one mark it as something, then filter out all of the blanks and that gets rid of the duplicate problems
+
+- NEBioCalculator

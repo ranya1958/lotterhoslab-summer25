@@ -1,0 +1,8 @@
+---
+title: "Lab Notebook"
+---
+
+::: {.callout-note}
+## Note: 
+This protocol is similar to the protocol developed by the Hughes lab at Northeastern University, but has been adapted for the Lotterhos lab eastern oyster seascape genomics project. We have adjusted sample volume, assay volumes, and automated data analysis steps.
+:::
